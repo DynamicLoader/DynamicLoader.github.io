@@ -13,8 +13,8 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 
 | Name | Description | Docs | Latest Release |
 | :-: | :-: | :-: | :-: |
-|HRCore|大整数与浮点数运算库| Not yet published | - |
-|SuperNAM-Z|长方形和三角形图像逆布局的演示程序，基于Qt QML| Not yet published | - |
+|HRCore|大整数与浮点数运算库| Not yet published | [20230617](https://github.com/DynamicLoader/learnCS/releases/tag/20230617) |
+|SuperNAM-Z|长方形和三角形图像逆布局的演示程序，基于Qt QML| Not yet published | [20230618](https://github.com/DynamicLoader/learnCS/releases/tag/20230618) |
 
 
 ## 归档的项目列表
