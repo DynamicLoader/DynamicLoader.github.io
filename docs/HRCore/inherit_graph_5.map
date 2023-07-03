@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html" title="A class as a storage interface, pure virtual." coords="5,35,183,60"/>
+<area shape="rect" id="node2" href="$dd/d27/classHRCore_1_1Storage_1_1LinkedList.html" title="An implement of Storage::Interface using linked list." coords="231,5,451,31"/>
+<area shape="rect" id="node3" href="$d2/d5b/classHRCore_1_1Storage_1_1VirtualMMU.html" title="An implement of Storage::Interface as Virtual MMU." coords="258,55,423,95"/>
+</map>

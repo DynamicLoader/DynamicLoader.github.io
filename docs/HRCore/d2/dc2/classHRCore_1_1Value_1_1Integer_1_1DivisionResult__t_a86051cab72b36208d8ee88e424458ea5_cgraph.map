@@ -1,0 +1,4 @@
+<map id="HRCore::Value::Integer::DivisionResult_t::clear" name="HRCore::Value::Integer::DivisionResult_t::clear">
+<area shape="rect" id="node1" title="Clear the object and release memory allocated." coords="5,5,164,45"/>
+<area shape="rect" id="node2" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a77d7fced56b5e7085aaeaa8489e07376" title="Delete a object from newObject()" coords="212,5,389,45"/>
+</map>

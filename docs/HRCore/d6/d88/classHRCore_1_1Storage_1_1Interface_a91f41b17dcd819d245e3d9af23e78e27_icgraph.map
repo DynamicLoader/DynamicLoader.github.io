@@ -1,0 +1,7 @@
+<map id="HRCore::Storage::Interface::extend" name="HRCore::Storage::Interface::extend">
+<area shape="rect" id="node1" title="Extend the storage to a given length." coords="223,101,400,141"/>
+<area shape="rect" id="node2" href="$d0/d50/namespaceHRCore_1_1Internal.html#a3b378bab51b5b49054a4c44db5fc9575" title="Prepare next item of Storage to be writen." coords="5,5,175,45"/>
+<area shape="rect" id="node3" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a984da8df075330d5a71adc708b09db57" title="Copy and construct a new Integer object." coords="13,69,167,109"/>
+<area shape="rect" id="node4" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a956883011da00e208454a936d16ffe12" title="Reload of operator*(r)" coords="13,133,167,173"/>
+<area shape="rect" id="node5" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#aef3af735321b725a43803badb3debca8" title="Reload of operator= to support a ival_t be converted to Integer." coords="13,197,167,237"/>
+</map>

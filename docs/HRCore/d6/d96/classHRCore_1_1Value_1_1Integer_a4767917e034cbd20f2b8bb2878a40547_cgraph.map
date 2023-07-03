@@ -1,0 +1,6 @@
+<map id="HRCore::Value::Integer::_absRelation" name="HRCore::Value::Integer::_absRelation">
+<area shape="rect" id="node1" title="Get relation of l and r." coords="5,55,160,95"/>
+<area shape="rect" id="node2" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#abdbce51308640afeb0372163628c1939" title="Returns the last item of storage." coords="208,5,415,31"/>
+<area shape="rect" id="node3" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2bbc86f41cc4df13c39e15ce8df6927e" title="Get the length of storage." coords="223,55,400,95"/>
+<area shape="rect" id="node4" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#ae12702dd62288ac4333b4806bebf7e86" title=" " coords="223,119,400,159"/>
+</map>

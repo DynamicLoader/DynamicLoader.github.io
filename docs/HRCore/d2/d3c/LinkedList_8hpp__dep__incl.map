@@ -1,0 +1,8 @@
+<map id="inc/LinkedList.hpp" name="inc/LinkedList.hpp">
+<area shape="rect" id="node1" title="Linked List implement of Storage::Interface." coords="199,5,325,31"/>
+<area shape="rect" id="node2" href="$df/d11/HRCore_8h.html" title="Main include file." coords="223,79,301,104"/>
+<area shape="rect" id="node3" href="$db/db3/StorageIF_8hpp.html" title="Storage Interface." coords="5,152,129,177"/>
+<area shape="rect" id="node4" href="$d7/d09/Utils_8hpp.html" title="Privide utils for HRCore." coords="153,152,248,177"/>
+<area shape="rect" id="node5" href="$de/dfd/Value_8hpp.html" title="Implements of mathematic data type and calculation." coords="273,152,374,177"/>
+<area shape="rect" id="node6" href="$d8/d74/VirtualMMU_8hpp.html" title="Virtual MMU implement of Storage::Interface." coords="398,152,534,177"/>
+</map>

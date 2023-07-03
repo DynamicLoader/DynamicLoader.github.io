@@ -1,0 +1,4 @@
+<map id="HRCore::Value::Float::operator=" name="HRCore::Value::Float::operator=">
+<area shape="rect" id="node1" title="transform IEEE&#45;754 Floating point value into Float object" coords="5,5,151,45"/>
+<area shape="rect" id="node2" href="$dc/d6a/classHRCore_1_1Value_1_1Float.html#a4889afba5757839b682dcfec98b92f46" title="Construct a new Integer object using given type of Storage::Interface implement." coords="199,5,344,45"/>
+</map>

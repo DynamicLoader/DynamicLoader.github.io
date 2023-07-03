@@ -1,0 +1,11 @@
+<map id="HRCore::Value::Integer::divideBy" name="HRCore::Value::Integer::divideBy">
+<area shape="rect" id="node1" title="A function to calculate (*this / r)" coords="5,141,160,181"/>
+<area shape="rect" id="node2" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a475eff62613ad4d67e47f728f59e4e2f" title="Examine if l == r." coords="219,26,374,66"/>
+<area shape="rect" id="node3" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a4767917e034cbd20f2b8bb2878a40547" title="Get relation of l and r." coords="433,55,588,95"/>
+<area shape="rect" id="node7" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a4889afba5757839b682dcfec98b92f46" title="Construct a new Integer object using given type of Storage::Interface implement." coords="219,141,374,181"/>
+<area shape="rect" id="node8" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2aa010a42109a3c64da13813940417d3" title="Get a new object of same type." coords="208,205,385,245"/>
+<area shape="rect" id="node9" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#ae67fbd4bb90fa72a67b2f294ca4f136e" title="Return the sign of object." coords="219,269,374,309"/>
+<area shape="rect" id="node4" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#abdbce51308640afeb0372163628c1939" title="Returns the last item of storage." coords="636,5,843,31"/>
+<area shape="rect" id="node5" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2bbc86f41cc4df13c39e15ce8df6927e" title="Get the length of storage." coords="651,55,828,95"/>
+<area shape="rect" id="node6" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#ae12702dd62288ac4333b4806bebf7e86" title=" " coords="651,119,828,159"/>
+</map>

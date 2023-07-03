@@ -1,0 +1,8 @@
+<map id="HRCore::Value::Integer::operator&lt;" name="HRCore::Value::Integer::operator&lt;">
+<area shape="rect" id="node1" title="Compare this and r with operator &lt;." coords="5,55,160,95"/>
+<area shape="rect" id="node2" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#aa363a168bf70a0d0a450cd36df4c6909" title="Examine if l &gt; r." coords="208,55,363,95"/>
+<area shape="rect" id="node3" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a4767917e034cbd20f2b8bb2878a40547" title="Get relation of l and r." coords="411,55,565,95"/>
+<area shape="rect" id="node4" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#abdbce51308640afeb0372163628c1939" title="Returns the last item of storage." coords="613,5,820,31"/>
+<area shape="rect" id="node5" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2bbc86f41cc4df13c39e15ce8df6927e" title="Get the length of storage." coords="628,55,805,95"/>
+<area shape="rect" id="node6" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#ae12702dd62288ac4333b4806bebf7e86" title=" " coords="628,119,805,159"/>
+</map>

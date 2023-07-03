@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " coords="5,205,109,230"/>
+<area shape="rect" id="node2" href="$d9/dc3/classHRCore_1_1Exception_1_1DividedByZero.html" title="Exception of divided by 0." coords="176,5,317,45"/>
+<area shape="rect" id="node3" href="$dd/d5a/classHRCore_1_1Exception_1_1ExpressionConvertFailed.html" title="Exception os Expression failed to convert." coords="164,69,329,109"/>
+<area shape="rect" id="node4" href="$dd/d63/classHRCore_1_1Exception_1_1ExpressionInvalidOperation.html" title="Exception of Expression evaluation: Invalid operation on seleted data type." coords="157,133,336,173"/>
+<area shape="rect" id="node5" href="$d3/deb/classHRCore_1_1Exception_1_1FPConvertFailed.html" title="Exception of FixedPoint failed to input." coords="176,197,317,237"/>
+<area shape="rect" id="node6" href="$d6/db7/classHRCore_1_1Exception_1_1InternalError.html" title="Exception of internal error. Please dig into it and solve." coords="176,261,317,301"/>
+<area shape="rect" id="node7" href="$d7/df0/classHRCore_1_1Exception_1_1InvalidArgument.html" title="Exception of Invalid Argument." coords="176,325,317,365"/>
+<area shape="rect" id="node8" href="$d9/d4d/classHRCore_1_1Exception_1_1LLR.html" title="Exception of left &lt; right." coords="165,390,329,415"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="inc/StorageIF.hpp" name="inc/StorageIF.hpp">
+<area shape="rect" id="node1" title="Storage Interface." coords="203,5,327,31"/>
+<area shape="rect" id="node2" href="$df/d11/HRCore_8h.html" title="Main include file." coords="225,79,304,104"/>
+<area shape="rect" id="node3" href="$de/dd1/LinkedList_8hpp.html" title="Linked List implement of Storage::Interface." coords="5,152,132,177"/>
+<area shape="rect" id="node4" href="$d7/d09/Utils_8hpp.html" title="Privide utils for HRCore." coords="156,152,251,177"/>
+<area shape="rect" id="node5" href="$de/dfd/Value_8hpp.html" title="Implements of mathematic data type and calculation." coords="275,152,377,177"/>
+<area shape="rect" id="node6" href="$d8/d74/VirtualMMU_8hpp.html" title="Virtual MMU implement of Storage::Interface." coords="401,152,537,177"/>
+</map>

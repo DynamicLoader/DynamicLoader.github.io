@@ -1,0 +1,5 @@
+<map id="HRCore::Value::Integer::operator=" name="HRCore::Value::Integer::operator=">
+<area shape="rect" id="node1" title="Reload of operator= to support a ival_t be converted to Integer." coords="5,37,160,77"/>
+<area shape="rect" id="node2" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a91f41b17dcd819d245e3d9af23e78e27" title="Extend the storage to a given length." coords="208,5,385,45"/>
+<area shape="rect" id="node3" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2aa010a42109a3c64da13813940417d3" title="Get a new object of same type." coords="208,69,385,109"/>
+</map>

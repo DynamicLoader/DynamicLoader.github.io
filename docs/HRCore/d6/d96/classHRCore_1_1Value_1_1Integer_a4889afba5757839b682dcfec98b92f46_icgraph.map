@@ -1,0 +1,7 @@
+<map id="HRCore::Value::Integer::make" name="HRCore::Value::Integer::make">
+<area shape="rect" id="node1" title="Construct a new Integer object using given type of Storage::Interface implement." coords="411,69,565,109"/>
+<area shape="rect" id="node2" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#abc3531454a023f0bd9cd519b72371140" title="A function to calculate (*this / r)" coords="208,37,363,77"/>
+<area shape="rect" id="node5" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a8b08b9bcbbe84d6a764f31403e9a83c8" title="Reload of &gt;&gt; (Logical right shift)" coords="208,101,363,141"/>
+<area shape="rect" id="node3" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#ac8dfd136ef861e80728b270ec9571587" title="Reload of operator%." coords="5,5,160,45"/>
+<area shape="rect" id="node4" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a36750d113f8a972a8d9f1b48f2976fb3" title="Reload of operator/." coords="5,69,160,109"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HRCore::Internal::_prepareNextStorageItem" name="HRCore::Internal::_prepareNextStorageItem">
+<area shape="rect" id="node1" title="Prepare next item of Storage to be writen." coords="5,69,175,109"/>
+<area shape="rect" id="node2" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a91f41b17dcd819d245e3d9af23e78e27" title="Extend the storage to a given length." coords="223,5,400,45"/>
+<area shape="rect" id="node3" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2bbc86f41cc4df13c39e15ce8df6927e" title="Get the length of storage." coords="223,69,400,109"/>
+<area shape="rect" id="node4" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#ab136425e38e68adf0c9d4e4b64e076e2" title="Get next item." coords="223,133,400,173"/>
+</map>

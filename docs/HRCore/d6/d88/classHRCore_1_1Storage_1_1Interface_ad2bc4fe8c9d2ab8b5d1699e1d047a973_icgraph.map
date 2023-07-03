@@ -1,0 +1,6 @@
+<map id="HRCore::Storage::Interface::begin" name="HRCore::Storage::Interface::begin">
+<area shape="rect" id="node1" title="Return the first item of storage." coords="208,69,385,109"/>
+<area shape="rect" id="node2" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a984da8df075330d5a71adc708b09db57" title="Copy and construct a new Integer object." coords="5,5,160,45"/>
+<area shape="rect" id="node3" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a956883011da00e208454a936d16ffe12" title="Reload of operator*(r)" coords="5,69,160,109"/>
+<area shape="rect" id="node4" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a4784beaf1f17bf149dddcb0a447f13d5" title="Reload of &lt;&lt; (Left shift)" coords="5,133,160,173"/>
+</map>

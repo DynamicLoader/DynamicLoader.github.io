@@ -1,0 +1,5 @@
+<map id="HRCore::Storage::VirtualMMU::at" name="HRCore::Storage::VirtualMMU::at">
+<area shape="rect" id="node1" title="Access to storage[pos]." coords="219,37,384,77"/>
+<area shape="rect" id="node2" href="$d2/d5b/classHRCore_1_1Storage_1_1VirtualMMU.html#a37e6ff3ea7764b581a4ac29c8a327870" title="Return the first item of storage." coords="5,5,171,45"/>
+<area shape="rect" id="node3" href="$d2/d5b/classHRCore_1_1Storage_1_1VirtualMMU.html#a9e68ee4ee0032f9e056b2018d874d8cc" title="Returns the last item of storage." coords="5,69,171,109"/>
+</map>

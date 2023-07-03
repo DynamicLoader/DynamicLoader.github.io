@@ -1,0 +1,4 @@
+<map id="HRCore::Storage::LinkedList::begin" name="HRCore::Storage::LinkedList::begin">
+<area shape="rect" id="node1" title="Return the first item of storage." coords="5,5,192,45"/>
+<area shape="rect" id="node2" href="$dd/d27/classHRCore_1_1Storage_1_1LinkedList.html#ac74ccde561c6ef25a6a172626cebc75a" title="Access to storage[pos]." coords="240,13,447,38"/>
+</map>

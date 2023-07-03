@@ -1,0 +1,7 @@
+<map id="HRCore::Value::Integer::operator&gt;&gt;" name="HRCore::Value::Integer::operator&gt;&gt;">
+<area shape="rect" id="node1" title="Reload of &gt;&gt; (Logical right shift)" coords="5,87,160,127"/>
+<area shape="rect" id="node2" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#abdbce51308640afeb0372163628c1939" title="Returns the last item of storage." coords="208,5,415,31"/>
+<area shape="rect" id="node3" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2bbc86f41cc4df13c39e15ce8df6927e" title="Get the length of storage." coords="223,55,400,95"/>
+<area shape="rect" id="node4" href="$d6/d96/classHRCore_1_1Value_1_1Integer.html#a4889afba5757839b682dcfec98b92f46" title="Construct a new Integer object using given type of Storage::Interface implement." coords="234,119,389,159"/>
+<area shape="rect" id="node5" href="$d6/d88/classHRCore_1_1Storage_1_1Interface.html#a2aa010a42109a3c64da13813940417d3" title="Get a new object of same type." coords="223,183,400,223"/>
+</map>
