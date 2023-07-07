@@ -37,7 +37,9 @@ jobs:
           destination: ./_site
       - name: Copy extras
         run: |
-          cp -r ./docs/_extra/* ./_site/
+          pwd
+          ls
+          cp -r ../_extra/* ./
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
