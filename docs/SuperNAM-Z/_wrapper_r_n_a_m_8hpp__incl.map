@@ -1,0 +1,41 @@
+<map id="inc/WrapperRNAM.hpp" name="inc/WrapperRNAM.hpp">
+<area shape="rect" id="node1" title="Wrapper for RNAMImage, exposing interfaces to QML." coords="1254,5,1409,31"/>
+<area shape="rect" id="node2" href="$_z_i_f_8hpp.html" title="ZhengYP Image Format." coords="1244,152,1309,177"/>
+<area shape="rect" id="node6" title=" " coords="723,225,801,251"/>
+<area shape="rect" id="node7" href="$_error_no_8h.html" title="To define global error code." coords="101,299,178,324"/>
+<area shape="rect" id="node10" href="$_q_utils_8hpp.html" title="Utils provided to QML." coords="875,225,958,251"/>
+<area shape="rect" id="node12" title=" " coords="5,299,76,324"/>
+<area shape="rect" id="node24" title=" " coords="1333,152,1409,177"/>
+<area shape="rect" id="node25" href="$_qml_export_8hpp.html" title="Qml exports helpers and functions." coords="387,79,497,104"/>
+<area shape="rect" id="node26" href="$_q_image_memory_8hpp.html" title="QML Element to display opencv::Mat directly." coords="1093,225,1231,251"/>
+<area shape="rect" id="node30" href="$_r_n_a_m_worker_8hpp.html" title=" " coords="1400,79,1527,104"/>
+<area shape="rect" id="node31" href="$_r_n_a_mimage_8hpp.html" title=" " coords="1529,152,1649,177"/>
+<area shape="rect" id="node32" title=" " coords="1901,225,2061,251"/>
+<area shape="rect" id="node37" title=" " coords="1673,152,1789,177"/>
+<area shape="rect" id="node38" title=" " coords="1865,79,1934,104"/>
+<area shape="rect" id="node39" title=" " coords="1958,79,2033,104"/>
+<area shape="rect" id="node3" title=" " coords="1391,225,1453,251"/>
+<area shape="rect" id="node4" title=" " coords="1556,225,1621,251"/>
+<area shape="rect" id="node5" title=" " coords="1477,225,1532,251"/>
+<area shape="rect" id="node8" href="$_exceptions_8hpp.html" title="Custom Exceptions for the projects." coords="1255,225,1367,251"/>
+<area shape="rect" id="node9" title=" " coords="2100,299,2179,324"/>
+<area shape="rect" id="node11" title=" " coords="1501,299,1573,324"/>
+<area shape="rect" id="node13" title=" " coords="365,299,461,324"/>
+<area shape="rect" id="node14" title=" " coords="485,299,533,324"/>
+<area shape="rect" id="node15" title=" " coords="557,299,610,324"/>
+<area shape="rect" id="node16" title=" " coords="634,299,687,324"/>
+<area shape="rect" id="node17" title=" " coords="712,299,759,324"/>
+<area shape="rect" id="node18" title=" " coords="1597,299,1719,324"/>
+<area shape="rect" id="node19" title=" " coords="783,299,939,324"/>
+<area shape="rect" id="node20" title=" " coords="963,299,1121,324"/>
+<area shape="rect" id="node21" title=" " coords="1146,299,1290,324"/>
+<area shape="rect" id="node22" title=" " coords="1315,299,1476,324"/>
+<area shape="rect" id="node23" title=" " coords="202,299,341,324"/>
+<area shape="rect" id="node27" title=" " coords="1744,299,1879,324"/>
+<area shape="rect" id="node28" title=" " coords="1903,299,1979,324"/>
+<area shape="rect" id="node29" title=" " coords="2003,299,2076,324"/>
+<area shape="rect" id="node36" title=" " coords="1433,152,1504,177"/>
+<area shape="rect" id="node33" title=" " coords="1645,225,1711,251"/>
+<area shape="rect" id="node34" title=" " coords="1735,225,1791,251"/>
+<area shape="rect" id="node35" title=" " coords="1815,225,1877,251"/>
+</map>

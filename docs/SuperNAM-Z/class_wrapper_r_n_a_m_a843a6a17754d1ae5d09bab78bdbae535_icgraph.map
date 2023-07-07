@@ -1,0 +1,5 @@
+<map id="WrapperRNAM::sourceImagePathChanged" name="WrapperRNAM::sourceImagePathChanged">
+<area shape="rect" id="node1" title=" " coords="292,23,483,63"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#ad85cc6c4a3e1926c15ef4ebdf0937c85" title="将指定的Mat对象读入到source_img." coords="7,5,242,31"/>
+<area shape="rect" id="node3" href="$class_wrapper_r_n_a_m.html#ac13fb573be94af805ad8b1ecb5beaae6" title="设置要进行RNAM编码的输入位图路径。" coords="5,55,244,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RNAMImage::GetStat" name="RNAMImage::GetStat">
+<area shape="rect" id="node1" title="Get the Stat object." coords="219,31,367,56"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#aef5a7501b11576368f56db2e993972e2" title="获得指定通道的相关统计信息。" coords="5,5,171,31"/>
+<area shape="rect" id="node3" href="$_r_n_a_m__cli_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " coords="63,55,113,80"/>
+</map>

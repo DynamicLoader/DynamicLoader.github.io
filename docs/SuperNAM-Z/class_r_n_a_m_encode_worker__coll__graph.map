@@ -1,0 +1,8 @@
+<map id="RNAMEncodeWorker" name="RNAMEncodeWorker">
+<area shape="rect" id="node1" title="RNAM编码线程对象" coords="96,196,243,221"/>
+<area shape="rect" id="node2" title=" " coords="27,108,98,133"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html" title="RNAM图像类。存储NAM分割的图像表示信息和相关的元数据,提供与位图相互转换的方法." coords="122,108,217,133"/>
+<area shape="rect" id="node4" title=" " coords="5,5,155,45"/>
+<area shape="rect" id="node5" href="$struct_r_n_a_m_image_1_1_metadata.html" title=" " coords="179,13,336,38"/>
+<area shape="rect" id="node6" title=" " coords="241,108,285,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RNAMImage::toBitmap" name="RNAMImage::toBitmap">
+<area shape="rect" id="node1" title="Decode RNAM image image into a bitmap. RGB supported." coords="5,5,160,31"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#aea54939f344a8e49090893381b4b8d7f" title="Decode one grayscale into a grayscale bitmap." coords="208,5,395,31"/>
+</map>

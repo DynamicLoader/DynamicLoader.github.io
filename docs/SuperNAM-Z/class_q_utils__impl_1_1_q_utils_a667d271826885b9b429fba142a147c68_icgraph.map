@@ -1,0 +1,4 @@
+<map id="QUtils_impl::QUtils::ImgDiffVisualizer" name="QUtils_impl::QUtils::ImgDiffVisualizer">
+<area shape="rect" id="node1" title="Generate a image showing difference between encoding result and original image.\ If image is in grays..." coords="229,5,363,45"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#a9bb588f898031868621e34a8bccdd65d" title="显示解码结果和原图像的差异。" coords="5,13,181,38"/>
+</map>

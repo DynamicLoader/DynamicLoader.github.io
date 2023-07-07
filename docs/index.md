@@ -13,15 +13,23 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 
 | Name | Description | Docs | Latest Release |
 | :-: | :-: | :-: | :-: |
-|HRCore|大整数与浮点数运算库| [HTML](https://docs.dyldr.top/HRCore) [PDF](https://github.com/DynamicLoader/learnCS/files/11936470/HRCore_manual_public.pdf)| [View](https://github.com/DynamicLoader/learnCS/releases/tag/HRCore_Release) |
-|SuperNAM-Z|长方形和三角形图像逆布局的演示程序，基于Qt QML| Not yet published | [20230618](https://github.com/DynamicLoader/learnCS/releases/tag/20230618) |
+|[HRCore](https://github.com/DynamicLoader/learnCS/tree/HRCore/)|大整数与浮点数运算库| [HTML](https://docs.dyldr.top/HRCore/) [PDF](https://github.com/DynamicLoader/learnCS/files/11936470/HRCore_manual_public.pdf)| [View](https://github.com/DynamicLoader/learnCS/releases/tag/HRCore_Release) |
+|[SuperNAM-Z](https://github.com/DynamicLoader/learnCS/tree/SuperNAM-Z)|长方形和三角形图像逆布局的演示程序，基于Qt QML| [HTML](https://docs.dyldr.top/SuperNAM-Z/) [PDF](https://github.com/DynamicLoader/learnCS/releases/download/SuperNAM_Z_Release/SuperNAM-Z_refman.pdf) | [View](https://github.com/DynamicLoader/learnCS/releases/tag/SuperNAM_Z_Release) |
 
 
 ## 归档的项目列表
 
+### CS
+
 | Name | Description | Docs |
 | :-: | :-: | :-: |
 |[LRVM](https://github.com/DynamicLoader/PersonalArchived/tree/main/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 | |
+
+
+### ME
+
+| Name | Description | Docs |
+| :-: | :-: | :-: |
 |[miniV853s](https://github.com/DynamicLoader/PersonalArchived/tree/main/miniV853s-Created-20230313)| 小型 AIOT 开发板，使用全志 V853s CPU ||
 
 ## 关于开源协议

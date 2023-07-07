@@ -1,0 +1,9 @@
+<map id="inc/QImageMemory.hpp" name="inc/QImageMemory.hpp">
+<area shape="rect" id="node1" title="QML Element to display opencv::Mat directly." coords="328,5,488,31"/>
+<area shape="rect" id="node2" href="$_wrapper_r_n_a_m_8hpp.html" title="Wrapper for RNAMImage, exposing interfaces to QML." coords="216,79,371,104"/>
+<area shape="rect" id="node4" href="$src_2main_8cpp.html" title=" " coords="405,152,502,177"/>
+<area shape="rect" id="node5" href="$gui_rnam_8cpp.html" title=" " coords="5,152,200,177"/>
+<area shape="rect" id="node6" href="$_wrapper_t_n_a_m_8hpp.html" title="Wrapper of TNAM algorithm for QML environment." coords="446,79,599,104"/>
+<area shape="rect" id="node7" href="$test_2_t_n_a_m__test_2main_8cpp.html" title=" " coords="544,152,715,177"/>
+<area shape="rect" id="node3" href="$_wrapper_r_n_a_m_8cpp.html" title=" " coords="225,152,381,177"/>
+</map>

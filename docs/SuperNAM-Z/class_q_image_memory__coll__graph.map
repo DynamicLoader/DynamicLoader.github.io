@@ -1,0 +1,5 @@
+<map id="QImageMemory" name="QImageMemory">
+<area shape="rect" id="node1" title="Directly show image from memory (i.e. cv::Mat)" coords="71,93,186,119"/>
+<area shape="rect" id="node2" title=" " coords="5,5,140,31"/>
+<area shape="rect" id="node3" title=" " coords="164,5,208,31"/>
+</map>

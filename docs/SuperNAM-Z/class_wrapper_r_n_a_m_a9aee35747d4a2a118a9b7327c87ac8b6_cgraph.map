@@ -1,0 +1,6 @@
+<map id="WrapperRNAM::encode" name="WrapperRNAM::encode">
+<area shape="rect" id="node1" title="启动编码。需要先载入图片。" coords="5,13,164,38"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#a12cb91193e77085dc26f3aac621fb612" title=" " coords="212,13,436,38"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html#a783e459fa8ac71c290f806a13de3a141" title="Calculate stats of current RNAM image image. Except PSNR. (Orignal image required...." coords="484,13,661,38"/>
+<area shape="rect" id="node4" href="$class_r_n_a_m_image.html#a4c23d6c2dc4c60f4823ea79bd52ec650" title=" " coords="709,5,860,45"/>
+</map>

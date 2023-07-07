@@ -1,0 +1,7 @@
+<map id="WrapperRNAM::displayDiff" name="WrapperRNAM::displayDiff">
+<area shape="rect" id="node1" title="显示解码结果和原图像的差异。" coords="5,70,181,95"/>
+<area shape="rect" id="node2" href="$class_q_utils__impl_1_1_q_utils.html#a667d271826885b9b429fba142a147c68" title="Generate a image showing difference between encoding result and original image.\ If image is in grays..." coords="257,33,391,73"/>
+<area shape="rect" id="node5" href="$class_q_image_memory.html#aa0418d8a0555227f19948178f2d72aba" title=" " coords="229,98,419,123"/>
+<area shape="rect" id="node3" href="$namespace_q_utils__impl.html#a455d3b0be16a55db669220b5e59e7251" title=" " coords="467,5,587,45"/>
+<area shape="rect" id="node4" href="$namespace_q_utils__impl.html#aff311f58c26ab3c2690e5b6277ccc4be" title=" " coords="635,42,784,67"/>
+</map>

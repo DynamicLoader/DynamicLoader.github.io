@@ -1,0 +1,5 @@
+<map id="WrapperRNAM::loadImage" name="WrapperRNAM::loadImage">
+<area shape="rect" id="node1" title="将输入图片加载到内存中。" coords="5,45,181,70"/>
+<area shape="rect" id="node2" href="$class_q_utils__impl_1_1_q_utils.html#ab9880d673e45eb437d2a0abffa54833c" title="Return the color property of a image[Color / GrayScale / Binary]." coords="229,5,363,45"/>
+<area shape="rect" id="node3" href="$class_q_utils__impl_1_1_q_utils.html#aedac120354c1e64dccf2273477520c62" title="Remove the prefix &quot;file:///&quot; from a path string." coords="229,69,363,109"/>
+</map>

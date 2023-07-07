@@ -1,0 +1,11 @@
+<map id="inc/QUtils.hpp" name="inc/QUtils.hpp">
+<area shape="rect" id="node1" title="Utils provided to QML." coords="358,5,462,31"/>
+<area shape="rect" id="node2" href="$_wrapper_r_n_a_m_8hpp.html" title="Wrapper for RNAMImage, exposing interfaces to QML." coords="186,225,341,251"/>
+<area shape="rect" id="node3" href="$_wrapper_r_n_a_m_8cpp.html" title=" " coords="5,299,161,324"/>
+<area shape="rect" id="node4" href="$src_2main_8cpp.html" title=" " coords="408,299,505,324"/>
+<area shape="rect" id="node6" href="$_z_i_f_8hpp.html" title="ZhengYP Image Format." coords="367,79,453,104"/>
+<area shape="rect" id="node9" href="$test_2_t_n_a_m__test_2main_8cpp.html" title=" " coords="494,225,665,251"/>
+<area shape="rect" id="node5" href="$gui_rnam_8cpp.html" title=" " coords="186,299,381,324"/>
+<area shape="rect" id="node7" href="$_r_n_a_m_worker_8hpp.html" title=" " coords="167,152,315,177"/>
+<area shape="rect" id="node8" href="$_wrapper_t_n_a_m_8hpp.html" title="Wrapper of TNAM algorithm for QML environment." coords="391,152,544,177"/>
+</map>

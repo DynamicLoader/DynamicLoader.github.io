@@ -1,0 +1,8 @@
+<map id="WrapperRNAM::widthChanged" name="WrapperRNAM::widthChanged">
+<area shape="rect" id="node1" title=" " coords="288,104,487,129"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#aacc700d124cfa2f9027bef4358db97ad" title="为非正方形的图像添加黑边" coords="30,5,215,31"/>
+<area shape="rect" id="node3" href="$class_wrapper_r_n_a_m.html#a88e3561f6a286ac7a5a2c12f14519990" title="将输入图片加载到内存中。" coords="35,55,211,80"/>
+<area shape="rect" id="node4" href="$class_wrapper_r_n_a_m.html#ad85cc6c4a3e1926c15ef4ebdf0937c85" title="将指定的Mat对象读入到source_img." coords="5,104,240,129"/>
+<area shape="rect" id="node5" href="$class_wrapper_r_n_a_m.html#a3e96962dfe0692e83681378e7e27ced0" title="从符合标准的ZIF文件中读取编码结果。" coords="45,153,200,179"/>
+<area shape="rect" id="node6" href="$class_wrapper_r_n_a_m.html#a56bc1bc6b8be493a1ef839337909d26c" title="将非正方形输入直接裁剪为正方形。" coords="33,203,213,228"/>
+</map>

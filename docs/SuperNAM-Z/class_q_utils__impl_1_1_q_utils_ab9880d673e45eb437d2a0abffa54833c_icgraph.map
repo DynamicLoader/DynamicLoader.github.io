@@ -1,0 +1,4 @@
+<map id="QUtils_impl::QUtils::ScanImgType" name="QUtils_impl::QUtils::ScanImgType">
+<area shape="rect" id="node1" title="Return the color property of a image[Color / GrayScale / Binary]." coords="229,5,363,45"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#a88e3561f6a286ac7a5a2c12f14519990" title="将输入图片加载到内存中。" coords="5,13,181,38"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RNAMDecodeWorker::run" name="RNAMDecodeWorker::run">
+<area shape="rect" id="node1" title=" " coords="5,5,177,31"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a115aef3f1f8f696a36004cb0140d7dea" title="Decode RNAM image image into a bitmap. RGB supported." coords="225,5,380,31"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html#aea54939f344a8e49090893381b4b8d7f" title="Decode one grayscale into a grayscale bitmap." coords="428,5,615,31"/>
+</map>

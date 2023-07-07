@@ -1,0 +1,5 @@
+<map id="RNAMImage" name="RNAMImage">
+<area shape="rect" id="node1" title="RNAM图像类。存储NAM分割的图像表示信息和相关的元数据,提供与位图相互转换的方法." coords="121,108,215,133"/>
+<area shape="rect" id="node2" title=" " coords="5,5,155,45"/>
+<area shape="rect" id="node3" href="$struct_r_n_a_m_image_1_1_metadata.html" title=" " coords="179,13,336,38"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="inc/QImageMemory.hpp" name="inc/QImageMemory.hpp">
+<area shape="rect" id="node1" title="QML Element to display opencv::Mat directly." coords="317,5,477,31"/>
+<area shape="rect" id="node2" title=" " coords="5,79,77,104"/>
+<area shape="rect" id="node3" title=" " coords="102,79,237,104"/>
+<area shape="rect" id="node4" title=" " coords="261,79,337,104"/>
+<area shape="rect" id="node5" title=" " coords="361,79,434,104"/>
+<area shape="rect" id="node6" title=" " coords="459,79,581,104"/>
+<area shape="rect" id="node7" title=" " coords="606,79,767,104"/>
+<area shape="rect" id="node8" title=" " coords="792,79,936,104"/>
+</map>

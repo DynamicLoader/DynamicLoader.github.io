@@ -1,0 +1,6 @@
+<map id="RNAMImage::bitmapToChan" name="RNAMImage::bitmapToChan">
+<area shape="rect" id="node1" title="Converts a GRAYSCALE image to RNAM image Channel." coords="443,31,629,56"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a72047c7a117984be780c1aa42247fa28" title="Encode a bitmap into RNAM image image." coords="225,31,395,56"/>
+<area shape="rect" id="node3" href="$_r_n_a_m__cli_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " coords="66,5,117,31"/>
+<area shape="rect" id="node4" href="$class_r_n_a_m_encode_worker.html#af8aff203ceb1fbf57557a645039cafe0" title=" " coords="5,55,177,80"/>
+</map>

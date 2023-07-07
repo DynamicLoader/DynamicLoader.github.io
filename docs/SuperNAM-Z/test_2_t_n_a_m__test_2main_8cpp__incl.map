@@ -1,0 +1,38 @@
+<map id="test/TNAM_test/main.cpp" name="test/TNAM_test/main.cpp">
+<area shape="rect" id="node1" title=" " coords="759,5,930,31"/>
+<area shape="rect" id="node2" title=" " coords="203,79,299,104"/>
+<area shape="rect" id="node3" title=" " coords="323,79,483,104"/>
+<area shape="rect" id="node4" title=" " coords="507,79,609,104"/>
+<area shape="rect" id="node5" href="$_q_utils_8hpp.html" title="Utils provided to QML." coords="1157,225,1239,251"/>
+<area shape="rect" id="node20" href="$_qml_export_8hpp.html" title="Qml exports helpers and functions." coords="1262,152,1371,177"/>
+<area shape="rect" id="node21" href="$_q_image_memory_8hpp.html" title="QML Element to display opencv::Mat directly." coords="479,225,618,251"/>
+<area shape="rect" id="node25" href="$_z_i_f_8hpp.html" title="ZhengYP Image Format." coords="1447,152,1512,177"/>
+<area shape="rect" id="node32" href="$_wrapper_t_n_a_m_8hpp.html" title="Wrapper of TNAM algorithm for QML environment." coords="904,79,1036,104"/>
+<area shape="rect" id="node6" title=" " coords="694,299,766,324"/>
+<area shape="rect" id="node7" title=" " coords="959,299,1029,324"/>
+<area shape="rect" id="node8" title=" " coords="1054,299,1150,324"/>
+<area shape="rect" id="node9" title=" " coords="1174,299,1222,324"/>
+<area shape="rect" id="node10" title=" " coords="1246,299,1299,324"/>
+<area shape="rect" id="node11" title=" " coords="1323,299,1377,324"/>
+<area shape="rect" id="node12" title=" " coords="1401,299,1448,324"/>
+<area shape="rect" id="node13" title=" " coords="547,299,670,324"/>
+<area shape="rect" id="node14" title=" " coords="1472,299,1628,324"/>
+<area shape="rect" id="node15" title=" " coords="1652,299,1811,324"/>
+<area shape="rect" id="node16" title=" " coords="790,299,934,324"/>
+<area shape="rect" id="node17" title=" " coords="361,299,523,324"/>
+<area shape="rect" id="node18" title=" " coords="1835,299,1974,324"/>
+<area shape="rect" id="node19" href="$_error_no_8h.html" title="To define global error code." coords="1998,299,2075,324"/>
+<area shape="rect" id="node22" title=" " coords="5,299,140,324"/>
+<area shape="rect" id="node23" title=" " coords="164,299,240,324"/>
+<area shape="rect" id="node24" title=" " coords="264,299,337,324"/>
+<area shape="rect" id="node26" title=" " coords="1407,225,1469,251"/>
+<area shape="rect" id="node27" title=" " coords="1493,225,1559,251"/>
+<area shape="rect" id="node28" title=" " coords="1583,225,1637,251"/>
+<area shape="rect" id="node29" title=" " coords="1662,225,1739,251"/>
+<area shape="rect" id="node30" href="$_exceptions_8hpp.html" title="Custom Exceptions for the projects." coords="1923,225,2035,251"/>
+<area shape="rect" id="node31" title=" " coords="2100,299,2179,324"/>
+<area shape="rect" id="node33" title=" " coords="1033,152,1091,177"/>
+<area shape="rect" id="node34" title=" " coords="1116,152,1187,177"/>
+<area shape="rect" id="node35" title=" " coords="635,152,774,177"/>
+<area shape="rect" id="node36" title=" " coords="798,152,907,177"/>
+</map>

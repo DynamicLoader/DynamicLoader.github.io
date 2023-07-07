@@ -1,0 +1,8 @@
+<map id="WrapperRNAM::writeZif" name="WrapperRNAM::writeZif">
+<area shape="rect" id="node1" title="将编码结果写入符合标准的ZIF文件。" coords="5,70,163,95"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a783e459fa8ac71c290f806a13de3a141" title="Calculate stats of current RNAM image image. Except PSNR. (Orignal image required...." coords="211,13,388,38"/>
+<area shape="rect" id="node4" href="$class_q_utils__impl_1_1_q_utils.html#aedac120354c1e64dccf2273477520c62" title="Remove the prefix &quot;file:///&quot; from a path string." coords="233,63,366,103"/>
+<area shape="rect" id="node5" href="$class_z_i_f_1_1_coder.html#a97d3c6d6d21517bb6bdce8a28dba08cf" title="Write file with given path." coords="230,127,369,153"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html#a4c23d6c2dc4c60f4823ea79bd52ec650" title=" " coords="436,5,587,45"/>
+<area shape="rect" id="node6" href="$class_z_i_f_1_1_coder.html#aaf5bc79961adff943ab012fa3c240d81" title=" " coords="439,127,584,153"/>
+</map>

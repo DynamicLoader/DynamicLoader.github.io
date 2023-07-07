@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " coords="5,170,56,195"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a72047c7a117984be780c1aa42247fa28" title="Encode a bitmap into RNAM image image." coords="109,38,279,63"/>
+<area shape="rect" id="node5" href="$class_r_n_a_m_image.html#a783e459fa8ac71c290f806a13de3a141" title="Calculate stats of current RNAM image image. Except PSNR. (Orignal image required...." coords="105,95,283,121"/>
+<area shape="rect" id="node7" href="$class_r_n_a_m_image.html#a27487bd58c4231391f1e3680534b2f72" title="Get how a grayscale image is represented by rectangles." coords="104,145,284,170"/>
+<area shape="rect" id="node9" href="$class_r_n_a_m_image.html#a8d3aed927c7c03e57c0a94b6e3205025" title="Get the Stat object." coords="120,194,268,219"/>
+<area shape="rect" id="node10" href="$_r_n_a_m__cli_8cpp.html#ac73e7783fe5819bf1f3a351f3db47279" title=" " coords="159,243,229,269"/>
+<area shape="rect" id="node11" href="$class_r_n_a_m_image.html#a115aef3f1f8f696a36004cb0140d7dea" title="Decode RNAM image image into a bitmap. RGB supported." coords="117,293,271,318"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html#ac8fcfa758fa56fb8a3a3533525e08e3d" title=" " coords="567,5,719,45"/>
+<area shape="rect" id="node4" href="$class_r_n_a_m_image.html#a79cf0c863bef403810f9b32bb84f8008" title="Converts a GRAYSCALE image to RNAM image Channel." coords="332,38,519,63"/>
+<area shape="rect" id="node6" href="$class_r_n_a_m_image.html#a4c23d6c2dc4c60f4823ea79bd52ec650" title=" " coords="350,88,501,128"/>
+<area shape="rect" id="node8" href="$_r_n_a_mimage_8cpp.html#a70ef056497ba7503ece6379dabf9d749" title=" " coords="371,153,479,178"/>
+<area shape="rect" id="node12" href="$class_r_n_a_m_image.html#aea54939f344a8e49090893381b4b8d7f" title="Decode one grayscale into a grayscale bitmap." coords="332,293,519,318"/>
+</map>

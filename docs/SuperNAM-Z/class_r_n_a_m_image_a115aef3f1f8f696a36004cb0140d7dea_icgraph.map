@@ -1,0 +1,6 @@
+<map id="RNAMImage::toBitmap" name="RNAMImage::toBitmap">
+<area shape="rect" id="node1" title="Decode RNAM image image into a bitmap. RGB supported." coords="231,55,385,80"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a14e3d36c7560d648bf1b204b5a968222" title="Calculate stats of current RNAM image image. May take a long time." coords="5,5,183,31"/>
+<area shape="rect" id="node3" href="$_r_n_a_m__cli_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " coords="69,55,119,80"/>
+<area shape="rect" id="node4" href="$class_r_n_a_m_decode_worker.html#aefbfa3db368337ac6a5b0a534e919730" title=" " coords="8,104,180,129"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WrapperRNAM" name="WrapperRNAM">
+<area shape="rect" id="node1" title="一个用于将RNAMImage暴露给QML的类. 封装了RNAMImage的相应接口, 以及存储完成演示所需的数据，包括源图像等。并且提供了信号和槽." coords="5,79,115,104"/>
+<area shape="rect" id="node2" title=" " coords="25,5,95,31"/>
+</map>

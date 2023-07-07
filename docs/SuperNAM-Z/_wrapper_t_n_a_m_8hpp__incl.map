@@ -1,0 +1,34 @@
+<map id="inc/WrapperTNAM.hpp" name="inc/WrapperTNAM.hpp">
+<area shape="rect" id="node1" title="Wrapper of TNAM algorithm for QML environment." coords="644,5,797,31"/>
+<area shape="rect" id="node2" title=" " coords="182,79,241,104"/>
+<area shape="rect" id="node3" title=" " coords="5,225,76,251"/>
+<area shape="rect" id="node4" title=" " coords="316,79,387,104"/>
+<area shape="rect" id="node5" title=" " coords="411,79,550,104"/>
+<area shape="rect" id="node6" title=" " coords="699,225,843,251"/>
+<area shape="rect" id="node7" title=" " coords="868,225,1029,251"/>
+<area shape="rect" id="node8" href="$_error_no_8h.html" title="To define global error code." coords="1054,225,1131,251"/>
+<area shape="rect" id="node9" href="$_qml_export_8hpp.html" title="Qml exports helpers and functions." coords="574,79,683,104"/>
+<area shape="rect" id="node10" title=" " coords="859,79,969,104"/>
+<area shape="rect" id="node11" href="$_q_image_memory_8hpp.html" title="QML Element to display opencv::Mat directly." coords="509,152,647,177"/>
+<area shape="rect" id="node17" href="$_z_i_f_8hpp.html" title="ZhengYP Image Format." coords="1332,79,1397,104"/>
+<area shape="rect" id="node12" title=" " coords="603,225,675,251"/>
+<area shape="rect" id="node13" title=" " coords="100,225,235,251"/>
+<area shape="rect" id="node14" title=" " coords="259,225,335,251"/>
+<area shape="rect" id="node15" title=" " coords="359,225,432,251"/>
+<area shape="rect" id="node16" title=" " coords="457,225,579,251"/>
+<area shape="rect" id="node18" title=" " coords="1290,152,1351,177"/>
+<area shape="rect" id="node19" title=" " coords="1376,152,1441,177"/>
+<area shape="rect" id="node20" title=" " coords="1465,152,1520,177"/>
+<area shape="rect" id="node21" title=" " coords="1545,152,1622,177"/>
+<area shape="rect" id="node22" href="$_exceptions_8hpp.html" title="Custom Exceptions for the projects." coords="1863,152,1975,177"/>
+<area shape="rect" id="node24" href="$_q_utils_8hpp.html" title="Utils provided to QML." coords="1183,152,1266,177"/>
+<area shape="rect" id="node23" title=" " coords="2099,225,2177,251"/>
+<area shape="rect" id="node25" title=" " coords="1318,225,1414,251"/>
+<area shape="rect" id="node26" title=" " coords="1438,225,1486,251"/>
+<area shape="rect" id="node27" title=" " coords="1510,225,1563,251"/>
+<area shape="rect" id="node28" title=" " coords="1587,225,1641,251"/>
+<area shape="rect" id="node29" title=" " coords="1665,225,1712,251"/>
+<area shape="rect" id="node30" title=" " coords="1736,225,1892,251"/>
+<area shape="rect" id="node31" title=" " coords="1916,225,2075,251"/>
+<area shape="rect" id="node32" title=" " coords="1155,225,1294,251"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="WrapperRNAM::error" name="WrapperRNAM::error">
+<area shape="rect" id="node1" title=" " coords="277,293,420,319"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#aacc700d124cfa2f9027bef4358db97ad" title="为非正方形的图像添加黑边" coords="25,5,210,31"/>
+<area shape="rect" id="node3" href="$class_wrapper_r_n_a_m.html#af8417783352c1665b63fd20edcf33146" title="将已经读入的原图像转换为灰度图像。" coords="18,55,217,95"/>
+<area shape="rect" id="node4" href="$class_wrapper_r_n_a_m.html#a216fd9dd1c020ddb87677c1859dd642b" title="启动解码。需要先编码。" coords="38,120,197,145"/>
+<area shape="rect" id="node5" href="$class_wrapper_r_n_a_m.html#a9bb588f898031868621e34a8bccdd65d" title="显示解码结果和原图像的差异。" coords="29,169,205,195"/>
+<area shape="rect" id="node6" href="$class_wrapper_r_n_a_m.html#a5947e605b069517222d4986984c3e85c" title="显示指定通道的分块信息。" coords="12,219,223,244"/>
+<area shape="rect" id="node7" href="$class_wrapper_r_n_a_m.html#a9aee35747d4a2a118a9b7327c87ac8b6" title="启动编码。需要先载入图片。" coords="38,268,197,293"/>
+<area shape="rect" id="node8" href="$class_wrapper_r_n_a_m.html#a88e3561f6a286ac7a5a2c12f14519990" title="将输入图片加载到内存中。" coords="29,317,205,343"/>
+<area shape="rect" id="node9" href="$class_wrapper_r_n_a_m.html#aef5a7501b11576368f56db2e993972e2" title="获得指定通道的相关统计信息。" coords="35,367,200,392"/>
+<area shape="rect" id="node10" href="$class_wrapper_r_n_a_m.html#a3e96962dfe0692e83681378e7e27ced0" title="从符合标准的ZIF文件中读取编码结果。" coords="40,416,195,441"/>
+<area shape="rect" id="node11" href="$class_wrapper_r_n_a_m.html#addc961f65a6142ed91b7465a43be4d8a" title="保存解码后的位图" coords="5,465,229,491"/>
+<area shape="rect" id="node12" href="$class_wrapper_r_n_a_m.html#a56bc1bc6b8be493a1ef839337909d26c" title="将非正方形输入直接裁剪为正方形。" coords="27,515,207,540"/>
+<area shape="rect" id="node13" href="$class_wrapper_r_n_a_m.html#af38137a957a4f16440ad3431aa4d4049" title="将编码结果写入符合标准的ZIF文件。" coords="39,564,196,589"/>
+</map>

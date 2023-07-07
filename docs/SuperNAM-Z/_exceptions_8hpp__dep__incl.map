@@ -1,0 +1,11 @@
+<map id="inc/Exceptions.hpp" name="inc/Exceptions.hpp">
+<area shape="rect" id="node1" title="Custom Exceptions for the projects." coords="303,5,437,31"/>
+<area shape="rect" id="node2" href="$_z_i_f_8hpp.html" title="ZhengYP Image Format." coords="327,79,413,104"/>
+<area shape="rect" id="node3" href="$_r_n_a_m_worker_8hpp.html" title=" " coords="127,152,275,177"/>
+<area shape="rect" id="node4" href="$_wrapper_r_n_a_m_8hpp.html" title="Wrapper for RNAMImage, exposing interfaces to QML." coords="206,225,361,251"/>
+<area shape="rect" id="node8" href="$_wrapper_t_n_a_m_8hpp.html" title="Wrapper of TNAM algorithm for QML environment." coords="351,152,504,177"/>
+<area shape="rect" id="node9" href="$test_2_t_n_a_m__test_2main_8cpp.html" title=" " coords="463,225,634,251"/>
+<area shape="rect" id="node5" href="$_wrapper_r_n_a_m_8cpp.html" title=" " coords="5,299,161,324"/>
+<area shape="rect" id="node6" href="$src_2main_8cpp.html" title=" " coords="405,299,503,324"/>
+<area shape="rect" id="node7" href="$gui_rnam_8cpp.html" title=" " coords="186,299,381,324"/>
+</map>

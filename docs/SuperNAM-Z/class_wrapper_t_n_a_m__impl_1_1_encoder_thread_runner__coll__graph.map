@@ -1,0 +1,11 @@
+<map id="WrapperTNAM_impl::EncoderThreadRunner" name="WrapperTNAM_impl::EncoderThreadRunner">
+<area shape="rect" id="node1" title="Encoder thread runner, overloading QThread::run and can be run in a single thread." coords="329,41,523,81"/>
+<area shape="rect" id="node3" href="$class_wrapper_t_n_a_m__impl_1_1_wrapper_t_n_a_m.html" title="Wrapper of TNAM matlab generated code, to be exposed to QML environment." coords="651,113,881,139"/>
+<area shape="rect" id="node2" title=" " coords="59,5,130,31"/>
+<area shape="rect" id="node9" href="$class_wrapper_t_n_a_m__impl_1_1_decoder_thread_runner.html" title="Decoder thread runner, overloading QThread::run and can be run in a single thread." coords="1003,106,1197,146"/>
+<area shape="rect" id="node4" title=" " coords="391,157,461,183"/>
+<area shape="rect" id="node5" href="$struct_wrapper_t_n_a_m__impl_1_1encoded__t.html" title="Typedef for TNAM encoded data." coords="323,207,529,232"/>
+<area shape="rect" id="node6" href="$struct_wrapper_t_n_a_m__impl_1_1coder__base__t.html" title="Typedef for TNAM coder data structure base." coords="5,158,184,198"/>
+<area shape="rect" id="node7" href="$struct_wrapper_t_n_a_m__impl_1_1decoded__t.html" title="Typedef for TNAM decoded data." coords="323,108,529,133"/>
+<area shape="rect" id="node8" title=" " coords="73,99,117,124"/>
+</map>

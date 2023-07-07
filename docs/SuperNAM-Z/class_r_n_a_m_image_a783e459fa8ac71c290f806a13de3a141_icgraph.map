@@ -1,0 +1,8 @@
+<map id="RNAMImage::generateStat" name="RNAMImage::generateStat">
+<area shape="rect" id="node1" title="Calculate stats of current RNAM image image. Except PSNR. (Orignal image required...." coords="484,80,661,105"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#a14e3d36c7560d648bf1b204b5a968222" title="Calculate stats of current RNAM image image. May take a long time." coords="235,5,413,31"/>
+<area shape="rect" id="node3" href="$_r_n_a_m__cli_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " coords="299,55,349,80"/>
+<area shape="rect" id="node4" href="$class_wrapper_r_n_a_m.html#a12cb91193e77085dc26f3aac621fb612" title=" " coords="212,104,436,129"/>
+<area shape="rect" id="node6" href="$class_wrapper_r_n_a_m.html#af38137a957a4f16440ad3431aa4d4049" title="将编码结果写入符合标准的ZIF文件。" coords="245,153,403,179"/>
+<area shape="rect" id="node5" href="$class_wrapper_r_n_a_m.html#a9aee35747d4a2a118a9b7327c87ac8b6" title="启动编码。需要先载入图片。" coords="5,104,164,129"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ZIF::Coder::_writeFile" name="ZIF::Coder::_writeFile">
+<area shape="rect" id="node1" title=" " coords="435,42,580,67"/>
+<area shape="rect" id="node2" href="$class_z_i_f_1_1_coder.html#a97d3c6d6d21517bb6bdce8a28dba08cf" title="Write file with given path." coords="248,42,387,67"/>
+<area shape="rect" id="node3" href="$class_wrapper_t_n_a_m__impl_1_1_wrapper_t_n_a_m.html#aa701fbb2296bf1882b274615fbeb25d7" title="Save encoded data to file specified in _outFp." coords="5,5,200,45"/>
+<area shape="rect" id="node4" href="$class_wrapper_r_n_a_m.html#af38137a957a4f16440ad3431aa4d4049" title="将编码结果写入符合标准的ZIF文件。" coords="24,70,181,95"/>
+</map>

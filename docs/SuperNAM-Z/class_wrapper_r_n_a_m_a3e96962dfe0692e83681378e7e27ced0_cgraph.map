@@ -1,0 +1,6 @@
+<map id="WrapperRNAM::readZif" name="WrapperRNAM::readZif">
+<area shape="rect" id="node1" title="从符合标准的ZIF文件中读取编码结果。" coords="5,35,160,60"/>
+<area shape="rect" id="node2" href="$class_z_i_f_1_1_coder.html#a670409cf57a6329bd1d94938605bd65f" title="Read file from given path." coords="208,5,344,31"/>
+<area shape="rect" id="node4" href="$class_q_utils__impl_1_1_q_utils.html#aedac120354c1e64dccf2273477520c62" title="Remove the prefix &quot;file:///&quot; from a path string." coords="209,55,343,95"/>
+<area shape="rect" id="node3" href="$class_z_i_f_1_1_coder.html#a4dc95b7aa6adf0583f1b26ae91fb71aa" title=" " coords="392,5,535,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QUtils_impl::QUtils::urlStrip" name="QUtils_impl::QUtils::urlStrip">
+<area shape="rect" id="node1" title="Remove the prefix &quot;file:///&quot; from a path string." coords="277,73,411,113"/>
+<area shape="rect" id="node2" href="$class_wrapper_r_n_a_m.html#a88e3561f6a286ac7a5a2c12f14519990" title="将输入图片加载到内存中。" coords="29,5,205,31"/>
+<area shape="rect" id="node3" href="$class_wrapper_r_n_a_m.html#a3e96962dfe0692e83681378e7e27ced0" title="从符合标准的ZIF文件中读取编码结果。" coords="40,55,195,80"/>
+<area shape="rect" id="node4" href="$class_wrapper_r_n_a_m.html#addc961f65a6142ed91b7465a43be4d8a" title="保存解码后的位图" coords="5,104,229,129"/>
+<area shape="rect" id="node5" href="$class_wrapper_r_n_a_m.html#af38137a957a4f16440ad3431aa4d4049" title="将编码结果写入符合标准的ZIF文件。" coords="39,153,196,179"/>
+</map>

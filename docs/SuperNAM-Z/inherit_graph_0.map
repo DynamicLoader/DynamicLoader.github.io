@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " coords="5,104,76,129"/>
+<area shape="rect" id="node2" href="$class_q_utils__impl_1_1_q_utils.html" title="Utils provided to QML with singleton." coords="173,5,306,31"/>
+<area shape="rect" id="node3" href="$class_qml_exports_1_1_r_n_a_m___stat__t.html" title="Type defination of RNAM Stat." coords="150,55,329,80"/>
+<area shape="rect" id="node4" href="$class_qml_exports_1_1_t_n_a_m___stat__t.html" title="Type defination of TNAM Stat." coords="151,104,328,129"/>
+<area shape="rect" id="node5" href="$class_wrapper_r_n_a_m.html" title="一个用于将RNAMImage暴露给QML的类. 封装了RNAMImage的相应接口, 以及存储完成演示所需的数据，包括源图像等。并且提供了信号和槽." coords="185,153,294,179"/>
+<area shape="rect" id="node6" href="$class_wrapper_t_n_a_m__impl_1_1_wrapper_t_n_a_m.html" title="Wrapper of TNAM matlab generated code, to be exposed to QML environment." coords="124,203,355,228"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RNAMImage::generateStat" name="RNAMImage::generateStat">
+<area shape="rect" id="node1" title="Calculate stats of current RNAM image image. May take a long time." coords="5,35,183,60"/>
+<area shape="rect" id="node2" href="$class_r_n_a_m_image.html#aea54939f344a8e49090893381b4b8d7f" title="Decode one grayscale into a grayscale bitmap." coords="456,5,643,31"/>
+<area shape="rect" id="node3" href="$class_r_n_a_m_image.html#a783e459fa8ac71c290f806a13de3a141" title="Calculate stats of current RNAM image image. Except PSNR. (Orignal image required...." coords="231,84,408,109"/>
+<area shape="rect" id="node5" href="$class_r_n_a_m_image.html#a115aef3f1f8f696a36004cb0140d7dea" title="Decode RNAM image image into a bitmap. RGB supported." coords="242,35,397,60"/>
+<area shape="rect" id="node4" href="$class_r_n_a_m_image.html#a4c23d6c2dc4c60f4823ea79bd52ec650" title=" " coords="474,77,625,117"/>
+</map>

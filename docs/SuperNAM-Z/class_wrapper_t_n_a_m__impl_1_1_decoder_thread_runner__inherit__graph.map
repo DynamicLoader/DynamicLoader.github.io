@@ -1,0 +1,4 @@
+<map id="WrapperTNAM_impl::DecoderThreadRunner" name="WrapperTNAM_impl::DecoderThreadRunner">
+<area shape="rect" id="node1" title="Decoder thread runner, overloading QThread::run and can be run in a single thread." coords="5,79,200,119"/>
+<area shape="rect" id="node2" title=" " coords="67,5,138,31"/>
+</map>
