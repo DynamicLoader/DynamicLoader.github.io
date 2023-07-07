@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: DynamicLoader 的项目文档
 show_github: false
 show_downloads: false
+keep_files: 
+  - HRCore/
+  - SuperNAM-Z/
