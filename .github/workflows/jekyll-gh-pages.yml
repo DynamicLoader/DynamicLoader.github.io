@@ -38,7 +38,7 @@ jobs:
       - name: Copy extras
         run: |
           pwd
-          cp -r ./docs/_extra/* ./_site
+          sudo cp -r ./docs/_extra/* ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
