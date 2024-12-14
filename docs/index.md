@@ -22,7 +22,7 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 | Name | Description | Docs |
 | :-: | :-: | :-: |
 |[LRVM](https://github.com/DynamicLoader/PersonalArchived/tree/main/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 | |
-|[SmartHomeLib](https://github.com/dynamicloader/SmartHomeLib)|自制的平台无关智能家居库，目前仅开发了设备端| |
+|[SmartHomeLib](https://github.com/DynamicLoader/Archived/tree/main/SmartHomeLib-Created-20240815)|自制的平台无关智能家居库，目前仅开发了设备端| |
 
 
 ### ME
