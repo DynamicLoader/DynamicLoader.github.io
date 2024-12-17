@@ -14,22 +14,30 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 |[SuperNAM-Z](https://github.com/DynamicLoader/learnCS/tree/SuperNAM-Z)|长方形和三角形图像逆布局的演示程序，基于Qt QML| [HTML](https://docs.dyldr.top/SuperNAM-Z/) [PDF](https://github.com/DynamicLoader/learnCS/releases/download/SuperNAM_Z_Release/SuperNAM-Z_refman.pdf) | [View](https://github.com/DynamicLoader/learnCS/releases/tag/SuperNAM_Z_Release) |
 |[SPLC](https://github.com/DynamicLoader/learnCS/tree/SPLC)|Simple 语言编译器，支持预编译+四元式输出+用JIT解释器运行|-|[View](https://github.com/DynamicLoader/learnCS/releases/tag/SPLC_RELEASE)|
 |[GCScholarInsight](https://github.com/DynamicLoader/learnCS/tree/GCScholarInsight)| 科学文献管理系统，Python + CPP 极致优化，前后端分离 | - | [View](https://github.com/DynamicLoader/learnCS/releases/tag/preview) | 
+|[SimpleET](https://github.com/DynamicLoader/SimpleET)|基于 SpringBoot+Vue3 的微型电商系统| - | - |
+
+## 其他开源项目
+
+| Project | Description | Repos |
+| :-: | :-: | :-: |
+| TobudOS |2024年腾讯犀牛鸟开源人才培养计划项目，课题一：增加 SMP 支持|[kernel](https://atomgit.com/dynamicloader/kernel/tree/smp) [ChipAdaptation](https://atomgit.com/dynamicloader/ChipAdaptation/tree/picosmp)|
+
 
 ## 归档的项目列表
 
-### CS
+### Computer Science
 
 | Name | Description | Docs |
 | :-: | :-: | :-: |
-|[LRVM](https://github.com/DynamicLoader/PersonalArchived/tree/main/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 | |
-|[SmartHomeLib](https://github.com/DynamicLoader/Archived/tree/main/SmartHomeLib-Created-20240815)|自制的平台无关智能家居库，目前仅开发了设备端| |
+|[LRVM](https://github.com/DynamicLoader/Archived/tree/main/LRVM-Created-20230313)| 小型 RISC-V 虚拟机，使用 C++ 11 | - |
+|[SmartHomeLib](https://github.com/DynamicLoader/Archived/tree/main/SmartHomeLib-Created-20240815)|自制的平台无关智能家居库，仅开发了设备端| - |
 
 
-### ME
+### Micro Electronics
 
 | Name | Description | Docs |
 | :-: | :-: | :-: |
-|[miniV853s](https://github.com/DynamicLoader/PersonalArchived/tree/main/miniV853s-Created-20230313)| 小型 AIOT 开发板，使用全志 V853s CPU ||
+|[miniV853s](https://github.com/DynamicLoader/Archived/tree/main/miniV853s-Created-20230313)| 小型 AIOT 开发板，使用全志 V853s CPU | - |
 
 ## 关于开源协议
 大多数项目遵循 BSD-3 开源，以各项目许可证描述为准。
