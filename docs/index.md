@@ -21,6 +21,7 @@ description: 此页列出所有项目，您可以点击对应链接前往仓库/
 | Project | Description | Repos |
 | :-: | :-: | :-: |
 | TobudOS |2024年腾讯犀牛鸟开源人才培养计划项目，课题一：增加 SMP 支持|[kernel](https://atomgit.com/dynamicloader/kernel/tree/smp) [ChipAdaptation](https://atomgit.com/dynamicloader/ChipAdaptation/tree/picosmp)|
+|AbydOS|自行设计的 RISCV-64 架构类 Unix 操作系统|[ABYDOS](https://github.com/DynamicLoader/AbydOS)|
 
 
 ## 归档的项目列表
